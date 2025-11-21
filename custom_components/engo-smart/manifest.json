@@ -1,7 +1,7 @@
 {
   "domain": "engo",
   "name": "EngoSmart",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/tuya",
   "requirements": ["tuya-device-sharing-sdk==0.2.5"],
