@@ -27,7 +27,7 @@ from homeassistant.const import (
     UnitOfVolumetricFlux,
 )
 
-DOMAIN = "tuya"
+DOMAIN = "engo"
 LOGGER = logging.getLogger(__package__)
 
 CONF_APP_TYPE = "tuya_app_type"
