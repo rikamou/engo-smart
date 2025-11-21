@@ -1,0 +1,7 @@
+{
+  "name": "Engo-Smart",
+  "render_readme": true,
+  "country": ["BG"],
+  "homeassistant": "2024.1.0",
+  "domains": ["engo"]
+}
